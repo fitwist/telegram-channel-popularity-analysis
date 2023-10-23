@@ -1,0 +1,4 @@
+typing_extensions
+python-telegram
+numpy
+pandas
